@@ -1,0 +1,3 @@
+/Users/zakhar/CLionProjects/HW_4/cmake-build-debug/CMakeFiles/HW_4.dir
+/Users/zakhar/CLionProjects/HW_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zakhar/CLionProjects/HW_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

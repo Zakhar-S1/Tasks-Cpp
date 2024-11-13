@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_TOOLCHAIN_FILE=/Users/zakhar/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /Users/zakhar/CLionProjects/HW_4 -B /Users/zakhar/CLionProjects/HW_4/cmake-build-debug
+-- Using VCPKG toolchain file at /Users/zakhar/vcpkg/scripts/buildsystems/vcpkg.cmake
+-- Armadillo library found
+-- VCPKG_ROOT: /Users/zakhar/vcpkg
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/zakhar/CLionProjects/HW_4/cmake-build-debug
